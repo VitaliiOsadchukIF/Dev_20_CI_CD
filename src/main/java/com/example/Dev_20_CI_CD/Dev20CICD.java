@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Dev20CICD {
-
 	public static void main(String[] args) {
 		SpringApplication.run(Dev20CICD.class, args);
 	}
