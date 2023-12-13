@@ -1,13 +1,13 @@
-package com.example.Dev_19_REST_API;
+package com.example.Dev_20_CI_CD;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Dev19RestApiApplication {
+public class Dev20CICD {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Dev19RestApiApplication.class, args);
+		SpringApplication.run(Dev20CICD.class, args);
 	}
 
 }

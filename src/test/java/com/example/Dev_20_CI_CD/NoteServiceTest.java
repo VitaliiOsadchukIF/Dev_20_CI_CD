@@ -1,9 +1,9 @@
-package com.example.Dev_19_REST_API;
+package com.example.Dev_20_CI_CD;
 
 
-import com.example.Dev_19_REST_API.entity.Note;
-import com.example.Dev_19_REST_API.repository.NoteRepository;
-import com.example.Dev_19_REST_API.service.NoteService;
+import com.example.Dev_20_CI_CD.entity.Note;
+import com.example.Dev_20_CI_CD.repository.NoteRepository;
+import com.example.Dev_20_CI_CD.service.NoteService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

@@ -1,7 +1,7 @@
-package com.example.Dev_19_REST_API.controller;
+package com.example.Dev_20_CI_CD.controller;
 
-import com.example.Dev_19_REST_API.entity.Note;
-import com.example.Dev_19_REST_API.service.NoteService;
+import com.example.Dev_20_CI_CD.entity.Note;
+import com.example.Dev_20_CI_CD.service.NoteService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

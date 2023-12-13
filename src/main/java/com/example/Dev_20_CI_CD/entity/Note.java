@@ -1,4 +1,4 @@
-package com.example.Dev_19_REST_API.entity;
+package com.example.Dev_20_CI_CD.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

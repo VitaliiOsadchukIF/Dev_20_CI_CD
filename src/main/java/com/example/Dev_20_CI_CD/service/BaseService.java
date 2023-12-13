@@ -1,6 +1,6 @@
-package com.example.Dev_19_REST_API.service;
+package com.example.Dev_20_CI_CD.service;
 
-import com.example.Dev_19_REST_API.entity.Note;
+import com.example.Dev_20_CI_CD.entity.Note;
 
 public interface BaseService {
 
