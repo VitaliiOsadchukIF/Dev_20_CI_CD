@@ -9,5 +9,6 @@ public class Dev20CICD {
 		SpringApplication.run(Dev20CICD.class, args);
 
 
+
 	}
 }
